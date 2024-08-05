@@ -1,7 +1,7 @@
-export const OWNER = "ChatGPTNextWeb";
-export const REPO = "ChatGPT-Next-Web";
-export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
-export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
+export const OWNER = "MOSS-AI";
+export const REPO = "MOSS-AI";
+export const REPO_URL = `http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=vdiVL9auqke2YoiylK7_fSB3gbe628ba&authKey=YIK7FX1nBoWKudfIn5BoysZzSULm%2BxhmfgFaW43IfB7rTCeEOKx1AufObqxPrkLw&noverify=0&group_code=817377776`;
+export const ISSUE_URL = `http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=vdiVL9auqke2YoiylK7_fSB3gbe628ba&authKey=YIK7FX1nBoWKudfIn5BoysZzSULm%2BxhmfgFaW43IfB7rTCeEOKx1AufObqxPrkLw&noverify=0&group_code=817377776`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
 export const RELEASE_URL = `${REPO_URL}/releases`;
 export const FETCH_COMMIT_URL = `https://api.github.com/repos/${OWNER}/${REPO}/commits?per_page=1`;
