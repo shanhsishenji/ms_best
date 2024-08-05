@@ -421,3 +421,4 @@ export const internalAllowedWebDavEndpoints = [
 ];
 
 export const PLUGINS = [{ name: "Stable Diffusion", path: Path.Sd }];
+
